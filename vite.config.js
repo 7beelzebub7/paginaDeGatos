@@ -1,9 +1,9 @@
 import { defineConfig } from 'vite'
 import tailwindcss from '@tailwindcss/vite'
 
-export default defineConfig({
-  base: '/paginaDeGatos/', 
+export default defineConfig({ 
   plugins: [
     tailwindcss(),
   ],
+  base: '/paginaDeGatos/'
 })
