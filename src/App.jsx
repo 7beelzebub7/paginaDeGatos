@@ -50,7 +50,7 @@ export default function App() {
           <p className="text-2xl font-medium text-pink-500 text-center">En esta página aprenderás todo sobre los gatos ya sea porque quieras adoptar uno o simplemente para pasar el aburrimiento</p>
         </div>
         <div className="flex items-center justify-center shadow-2xl">
-            <img src="images/slyder.jpg" alt="" className=""/>
+            <img src="./images/slyder.jpg" alt="" className=""/>
         </div>
       </div>
       <div className="m-20"></div>
